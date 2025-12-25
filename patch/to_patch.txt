@@ -1,0 +1,3 @@
+src/lib/libraries/extensions/index.jsx
+node_modules/scratch-vm/src/extension-support/extension-manager.js
+node_modules/scratch-vm/src/extensions/your-scratch-extension/
